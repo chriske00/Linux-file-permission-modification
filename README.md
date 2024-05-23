@@ -1,4 +1,4 @@
-# Linux file permission modification
+# Securing File Permissions in the Projects Directory
 
 ## Objective
 • Modify Linux file permissions to control read, write, and execute access for users, groups, and others
